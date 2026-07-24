@@ -1,0 +1,3 @@
+# Google Workspace
+
+Repository of reusable modules, resources, and templates for Google Workspace.
